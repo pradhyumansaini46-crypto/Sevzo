@@ -1,0 +1,6 @@
+{
+  "name": "SevaZo",
+  "description": "Hyper-local Q-commerce, 15-minute grocery, pharmacy, home services & B2B industrial delivery platform for Neemrana.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
